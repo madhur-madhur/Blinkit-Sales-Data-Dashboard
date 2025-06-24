@@ -94,4 +94,5 @@ Do low-fat products have significant market share?
 
 Regular fat products dominate; low-fat generates ~$425.36K out of $1.20M.
 
-This is what the dashboard looks like :
+This is what the dashboard looks like 
+https://github.com/madhur-madhur/Blinkit-Sales-Data-Dashboard/blob/main/Snapshot%20of%20Blinkit%20Sales%20Data%20Interactive%20Dashboard.png
